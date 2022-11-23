@@ -1,0 +1,8 @@
+name: Statified
+version: '${version}'
+main: io.jcurtis.statified.Statified
+api-version: 1.19
+prefix: STATIFIED
+authors: [ jcurtis06 ]
+description: An advanced stats tracker plugin for Minecraft
+website: https://github.com/jcurtis06/statified
