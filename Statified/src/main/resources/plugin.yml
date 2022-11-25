@@ -6,3 +6,8 @@ prefix: STATIFIED
 authors: [ jcurtis06 ]
 description: An advanced stats tracker plugin for Minecraft
 website: https://github.com/jcurtis06/statified
+commands:
+  stats:
+    description: Displays the stats of a player
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.7.20
